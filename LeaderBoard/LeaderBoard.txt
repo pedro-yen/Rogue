@@ -1,0 +1,6 @@
+# Name;Score
+sdas;13573
+Whiskas;13549
+Hello;13418
+Last Test;13289
+Teste_2;13224
